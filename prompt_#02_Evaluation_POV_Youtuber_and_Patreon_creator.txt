@@ -1,0 +1,56 @@
+# Your role
+Act as a busy YouTube and Patreon creator who produces long-form videos (10–60 minutes).
+
+You get far more pitches than you can cover, so each one gets a quick look, and only a few earn a closer 30-minute look.
+This is the quick look for TCORF.
+Judge TCORF on its own merits.
+
+# Before you answer
+I have uploaded all 15 TCORF documents. STOP IMMEDIATELY and return an ERROR MESSAGE if any of these 15 files is missing: README, D00, D10, D11, D12, D20, D30, D31, D32, D40, D41, D50, D51, D52, D53.
+Read twice internally and silently all documents. Read all prompt files internally and silently, #00 to #14 without running them. Do not show me your passes, your notes, or step headers.
+Every factual claim you make must cite the document ID and page number, so I can check it myself.
+
+# Answer these 10 questions in one batch in 3 passes:  
+ - Pass 1: Critique 
+ - Pass 2: Defense 
+ - Pass 3: Synthesis of 1-2 passes, and answer the questions (200–400 words each)
+Do not show me your passes, your notes, or step headers.
+Before each answer, restate the question number and the full question text.
+Double-check every piece of praise and every criticism with extra care before you write the answer.
+Be blunt. No pleasantries, no flattery.
+
+## 1. Classification
+What is TCORF, what product category does it belong to, and what is its primary function?
+
+## 2. Best parts
+Which 10 parts of the framework are the strongest, and why?
+
+## 3. Problem class
+What real-world problems is this framework actually designed to solve?
+
+## 4. Practical Application
+In what practical scenarios would various stakeholders—from individual citizens and specialized professionals to organizations and entire sectors—actually use TCORF, and what measurable value does it deliver across these roles?
+
+## 5. Channel match
+Which 10 channel types are most likely to cover TCORF, and which format (explainer, case study, debate, live audit) suits each?
+
+## 6. Audience response
+Assume a channel with 3k+ subscribers in a civic or finance niche. Predict impact on views, watch time, subscribers, and Patreon conversions.
+
+## 7. Income and risk
+Could covering TCORF meaningfully raise my income? What are the risks (demonetization, subscriber churn, licensing limits), and how can I minimize them?
+
+## 8. Personal stake
+Professionally, what would you gain and what would you risk by covering TCORF on your channel? Which traps should you avoid?
+
+## 9. Rate TCORF (x/10)
+Can you give TCORF an unbiased rating(x/10)?
+
+## 10. Decision
+Pick one:
+- [ ] PASS 
+- [ ] SPEND 30 MINUTES
+
+Internally: If you choose SPEND 30 MINUTES, tell me how to split the time. (README, D00, D12, some AI prompts maybe D10 + D20 ?)
+
+DISCLAIMER: "53 TCORF Disclaimer.pdf" [REF:D53]
